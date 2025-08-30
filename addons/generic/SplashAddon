@@ -1,0 +1,15 @@
+AddonId: SplashAddonS
+Type: Generic
+Name: Splash Addon
+Author: Artzox
+ShortDescription: Show a splash screen of your background image and logo for a predefined time based on game launch.
+InstallerManifestUrl: https://raw.githubusercontent.com/artzox/Playnite-Splash-Addon/master/Manifest/SplashAddon.yaml
+SourceUrl: https://github.com/artzox/Playnite-Splash-Addon
+Description: Shows a splash screen on game launch for a user-defined amount of time.
+  The splash screen in a combination of your game background image and a logo (when using Extra MetaData Loader). Allows to configure game or platform-specific timers, as well as deciding what will be the trigger - game launch or being in game. No other splash screens are supported (outside images or videos) or planned.
+Tags: ["Launch", "Splashscreen", "Loader", "Image", "Logo", "Transition"]
+Links:
+   GitHub: https://github.com/artzox/Playnite-Splash-Addon
+   IconUrl: https://raw.githubusercontent.com/artzox/Playnite-Splash-Addon/master/icon.png
+Screenshots:
+  - https://raw.githubusercontent.com/artzox/Playnite-Splash-Addon/master/Screenshots/Splash__Addon_Menu.png
